@@ -1,4 +1,4 @@
-# Fruit Flies Connectome Analysis
+# Fruit Fly Data Analysis
 
 ## About
 
