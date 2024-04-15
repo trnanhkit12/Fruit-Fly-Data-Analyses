@@ -22,4 +22,4 @@ If you choose to explore or use these notebooks, please do so with an understand
 
 ## Contact
 
-For any inquiries or further information, please feel free to contact me at [your-email@example.com].
+For any inquiries or further information, please feel free to contact me at [trnanhkit12@gmail.com].
